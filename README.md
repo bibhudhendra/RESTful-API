@@ -7,5 +7,4 @@ It includes many inbuilt modules such as
 2) mongoose: For handling MongoDB database
 3) body-parser: For parsing the request object
 4) jsonwebtoken: For Token creation
-5) multer: For file handling
-6) bcrypt: password hashing
+5) bcrypt: password hashing
